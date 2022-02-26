@@ -4,7 +4,7 @@
 <span class="avatar"><img height='320' src="https://i.imgur.com/BBwo3tp.jpeg"> </a></span> 
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Aj-fx1"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
@@ -24,7 +24,7 @@
 <a href="https://github.com/signup/"><span class="avatar"><img height='120' src="./photo/Kaztroser-19.png" alt="Error"> </a></span>
  
 2.
-<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
+<a href="https://replit.com/@Aj-fx1/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
   
 3.
 <p align="center">
@@ -32,24 +32,24 @@
 
 4.
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztro_ser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx1/Kaztro_ser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
 
-5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser copy this url and change Aj-fx with your github username and go<br>
+5. https://heroku.com/deploy?template=https://github.com/Aj-fx1/Kaztro_ser copy this url and change Aj-fx1 with your github username and go<br>
 
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Kaztro_ser">
+  <a href="httsp://github.com/Aj-fx1/Kaztro_ser">
    <p align="center">
-<a href="https://github.com/Aj-fx/Kaztro_ser/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
-<a href="https://github.com/Aj-fx/followers">
+<a href="https://github.com/Aj-fx1/Kaztro_ser/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx1&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
+<a href="https://github.com/Aj-fx1/followers">
   <p align="center">
-<img src="https://img.shields.io/github/repo-size/Aj-fx/Kaztro_ser?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Aj-fx1/Kaztro_ser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Aj-fx/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztro_ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztro_ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro_ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztro_ser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx1/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx1/Kaztro_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx1/Kaztro_ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx1/Kaztro_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx1/Kaztro_ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx1/Kaztro_ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx1/Kaztro_ser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
