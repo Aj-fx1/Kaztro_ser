@@ -35,6 +35,11 @@
             "required": true,
             "value": "Rafi💖"
         },
+        "ALIVE_BUTTON": {
+            "description": "Set the alive message two name",
+            "required": true,
+            "value": "sᴇᴅ/ʜᴀᴘᴘʏ"
+        },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
